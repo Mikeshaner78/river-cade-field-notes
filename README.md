@@ -1,7 +1,5 @@
 # River Cade Field Notes
 
-Field notes from River Cade Concepts on what machines can and cannot read about a small business. Plain Markdown, no tracking, no signup.
-
 Short pieces on what machines can and cannot read about a small business, and what that is starting to decide. Plain Markdown. No tracking, no signup, no email wall.
 
 ## Notes
