@@ -5,6 +5,7 @@ Short pieces on what machines can and cannot read about a small business, and wh
 ## Notes
 
 - [There is no ad slot in the answer](notes/no-ad-slot.md) — Search had an auction. Recommendation does not.
+- [You have a robots.txt. You have never read it](notes/robots-txt-you-never-read.md) — Somebody decided what machines may know about your business. It probably was not you.
 
 ## Who publishes this
 
