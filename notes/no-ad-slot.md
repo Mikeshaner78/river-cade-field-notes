@@ -2,8 +2,6 @@
 
 *Search had an auction. Recommendation does not.*
 
-Search had an auction. Recommendation does not.
-
 For twenty-five years, being found meant paying to be found. You bid on a keyword, someone else bid higher, and the results page sorted you both by how much you were willing to spend. Everyone understood the deal. It was expensive and it was legible.
 
 Ask an AI assistant to recommend a plumber, a bakery or an accountant in your town, and something different happens. You get a short list — three names, maybe five — and nothing on it is sponsored. There is no bid. No budget. No rep to call. No slot to buy at any price.
