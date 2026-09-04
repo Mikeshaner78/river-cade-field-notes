@@ -6,6 +6,7 @@ Short pieces on what machines can and cannot read about a small business, and wh
 
 - [There is no ad slot in the answer](notes/no-ad-slot.md) — Search had an auction. Recommendation does not.
 - [You have a robots.txt. You have never read it](notes/robots-txt-you-never-read.md) — Somebody decided what machines may know about your business. It probably was not you.
+- [Search your problem in your own words and count the sellers](notes/your-words-not-theirs.md) — The words you use for your problem are not the words the industry uses to sell the fix.
 
 ## Who publishes this
 
